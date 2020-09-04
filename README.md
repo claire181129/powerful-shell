@@ -13,6 +13,6 @@ powerful linux shell script or command
 nothing to index for now...
 
 ## Todo
- - bash_CS
- - get familiar, useful linux commands with example
- - try to increase efficiency of everything, with shell
+ - [ ] bash_CS
+ - [ ] get familiar, useful linux commands with example
+ - [ ] try to increase efficiency of everything, with shell
